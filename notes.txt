@@ -1,0 +1,2 @@
+I am learning Node.js
+I am appending to the file

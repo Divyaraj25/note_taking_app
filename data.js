@@ -15,7 +15,7 @@ const addNote = (title, body) => {
   // to find duplicate note. simpler than traversing the whole array
   const duplicateNote = loadnotes.find((note) => note.title === title);
 
-  debugger
+  // debugger
   // use node inspect notes.js (argvs)
   // use node --inspect--brk notes.js (argvs)
   // go to chrome, open chrome://inspect, click on inspect for this port device
